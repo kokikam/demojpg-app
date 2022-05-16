@@ -1,0 +1,6 @@
+{
+    "tailwindCSS.includeLanguages": {
+        "vue": "vue"
+    },
+    "tailwindCSS.experimental.configFile": null
+}

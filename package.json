@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxtclub/feathericons": "^1.0.0",
+    "@nuxtjs/tailwindcss": "^5.0.4",
+    "@vueuse/nuxt": "^8.4.2",
+    "nuxt": "3.0.0-rc.3",
+    "sass": "^1.51.0"
+  },
+  "dependencies": {
+    "@inkline/inkline": "^3.0.8",
+    "@inkline/nuxt": "^3.1.0",
+    "@vueuse/core": "^8.4.2",
+    "vue-feather-icons": "^5.1.0",
+    "vue-slicksort": "^1.2.0",
+    "vuedraggable": "^4.1.0"
+  }
+}
