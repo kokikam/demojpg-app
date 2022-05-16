@@ -1,3 +1,9 @@
+# Nuxt 3 - Animated Draggable Interface
+
+I followed this guide as my blueprint and adapt what is necesary to make it work using Nuxt 3.
+
+https://www.binarcode.com/blog/building-animated-draggable-interfaces-with-vuejs-and-tailwind/
+
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
